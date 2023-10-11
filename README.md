@@ -14,16 +14,13 @@ La idea ser√° crear una directiva robusta que nos sirva para resumir la forma c√
 <p>
 1.Boostrap
 
-2. rutas
+2. Rutas
 
 3. LazyLoad 
 
+4. Formularios reactivos
 
 
-</p>
-
-### Api usados:
-<p>
 </p>
 
 ## Acceso al proyecto:
