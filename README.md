@@ -1,27 +1,51 @@
-# DirectiveSingnalsApp
+# Directivas personalizadas
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.5.
+## descripcion:
+<p>
+En esta sección veremos como crear directivas personalizadas en Angular para que puedan expandir su comportamiento.
+</p>
 
-## Development server
+### objetivo:
+<p>
+La idea será crear una directiva robusta que nos sirva para resumir la forma cómo los errores en los formularios son mostrados, y así no tener que colocar infinidad de condiciones dentro del HTML.
+</p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+### temas vistos en esta app:
+<p>
+1.Boostrap
 
-## Code scaffolding
+2. rutas
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+3. LazyLoad 
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
-## Running unit tests
+</p>
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+### Api usados:
+<p>
+</p>
 
-## Running end-to-end tests
+## Acceso al proyecto:
+### pasos
+<p>
+1.
+```
+npm install
+``` 
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+2.
+```
+code .
+``` 
 
-## Further help
+3.
+```
+ng server -o
+``` 
+</p>
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## tecnologias usadas:
+<p>
+Angular 16.1.5
+</p>
