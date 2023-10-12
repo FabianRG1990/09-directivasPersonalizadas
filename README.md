@@ -20,6 +20,10 @@ La idea ser√° crear una directiva robusta que nos sirva para resumir la forma c√
 
 4. Formularios reactivos
 
+5. Directivas
+
+
+
 
 </p>
 
@@ -27,10 +31,9 @@ La idea ser√° crear una directiva robusta que nos sirva para resumir la forma c√
 ### pasos
 <p>
 1.
-
 ```
 npm install
-``` 
+```
 
 2.
 ```
