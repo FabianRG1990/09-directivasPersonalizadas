@@ -31,6 +31,7 @@ La idea ser√° crear una directiva robusta que nos sirva para resumir la forma c√
 ### pasos
 <p>
 1.
+  
 ```
   npm install
 ```
