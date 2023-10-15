@@ -32,7 +32,7 @@ La idea serÃ¡ crear una directiva robusta que nos sirva para resumir la forma cÃ
 <p>
 1.
 ```
-npm install
+  npm install
 ```
 
 2.
