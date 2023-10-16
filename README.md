@@ -43,8 +43,9 @@ Actualizacio
 <p>
 1.
 
+  
 ```
-npm install
+  npm install
 ```
 
 2.
