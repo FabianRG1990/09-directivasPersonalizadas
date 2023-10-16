@@ -22,6 +22,17 @@ La idea ser√° crear una directiva robusta que nos sirva para resumir la forma c√
 
 5. Directivas
 
+6. Signals
+
+Utilizacion
+
+Modificacion 
+
+Mutacion 
+
+Actualizacio
+
+
 
 
 
@@ -31,6 +42,7 @@ La idea ser√° crear una directiva robusta que nos sirva para resumir la forma c√
 ### pasos
 <p>
 1.
+
 ```
 npm install
 ```
