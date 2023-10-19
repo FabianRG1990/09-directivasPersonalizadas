@@ -6,4 +6,8 @@ import { Component } from '@angular/core';
 })
 export class PropertiesPegeComponent {
 
+  onFieldUpdated(field: string, value: string){
+
+  }
+
 }
